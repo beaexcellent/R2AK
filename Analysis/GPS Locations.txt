@@ -1,0 +1,19 @@
+Victoria Harbor:
+48.421730, -123.368872
+
+Ketchikan Finish Line:
+55.338299, -131.642986
+
+Bella Bella:
+52.165145, -128.109817
+
+Campbell River:
+50.035061, -125.230095
+
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiM2JhMTQzMzUtMjYzYi00MWMzLTgyOWUtNGM2MjA3ZGQxODdmIiwidCI6IjljYTc1MTI4LWEyNDQtNDU5Ni04NzdiLWYyNDgyOGU0NzZlMiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+
+[iframe
+src="https://app.powerbi.com/view?r=eyJrIjoiM2JhMTQzMzUtMjYzYi00MWMzLTgyOWUtNGM2MjA3ZGQxODdmIiwidCI6IjljYTc1MTI4LWEyNDQtNDU5Ni04NzdiLWYyNDgyOGU0NzZlMiIsImMiOjZ9" width="100%" height="500"]
+
+[iframe
+src="https://app.powerbi.com/view?r=eyJrIjoiM2JhMTQzMzUtMjYzYi00MWMzLTgyOWUtNGM2MjA3ZGQxODdmIiwidCI6IjljYTc1MTI4LWEyNDQtNDU5Ni04NzdiLWYyNDgyOGU0NzZlMiIsImMiOjZ9" width="100%" height="500"]
