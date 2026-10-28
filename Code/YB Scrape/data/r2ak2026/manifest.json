@@ -1,0 +1,27 @@
+{
+  "counts": {
+    "legacy_track_files": 65,
+    "positions": 187839,
+    "teams": 65,
+    "trackers": 65
+  },
+  "decoder": {
+    "base_timestamp": 1720000000,
+    "flags": 3,
+    "format": "AllPositions3"
+  },
+  "downloaded_at_utc": "2026-10-26T06:20:44.363729Z",
+  "race_key": "r2ak2026",
+  "race_title": "Race to Alaska R2AK",
+  "sha256": {
+    "all_positions3.bin": "62b06fdfcfdbb89f265d6a23d8b836121ce1195ef2b91125de38e930d639b054",
+    "race_setup.json": "61cdfab08fdd0d2fb6ea9bde707cfa7e4a059056ef3f8519e845d4bba3416a3a"
+  },
+  "source_positions": "https://yb.tl/BIN/r2ak2026/AllPositions3",
+  "source_setup": "https://yb.tl/JSON/r2ak2026/RaceSetup",
+  "source_viewer": "https://yb.tl/r2ak2026",
+  "time_range_utc": {
+    "first": "2026-06-17T18:50:00Z",
+    "last": "2026-07-09T16:00:00Z"
+  }
+}

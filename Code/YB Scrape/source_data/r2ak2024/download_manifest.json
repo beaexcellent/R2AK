@@ -1,0 +1,20 @@
+{
+  "race": "r2ak2024",
+  "downloaded_at_utc": "2026-10-26T06:17:02.781082+00:00",
+  "files": {
+    "race_setup.json": {
+      "url": "https://yb.tl/JSON/r2ak2024/RaceSetup",
+      "bytes": 21902,
+      "sha256": "ae7c7758fdc50ac3a2142b7e04cab99f0de8edc62fd4e77b5b78935cc22fd669",
+      "status": 200,
+      "content_type": null
+    },
+    "all_positions3.bin": {
+      "url": "https://yb.tl/BIN/r2ak2024/AllPositions3",
+      "bytes": 546625,
+      "sha256": "d58d5892416ef8010b3b89622de9d92ca5dca8c5b19e63b517dab9b8317fb26e",
+      "status": 200,
+      "content_type": null
+    }
+  }
+}

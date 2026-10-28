@@ -1,0 +1,27 @@
+{
+  "counts": {
+    "legacy_track_files": 32,
+    "positions": 54578,
+    "teams": 33,
+    "trackers": 32
+  },
+  "decoder": {
+    "base_timestamp": 1718217000,
+    "flags": 3,
+    "format": "AllPositions3"
+  },
+  "downloaded_at_utc": "2026-10-26T06:19:11.899797Z",
+  "race_key": "r2ak2024",
+  "race_title": "Race to Alaska R2AK 2024",
+  "sha256": {
+    "all_positions3.bin": "d58d5892416ef8010b3b89622de9d92ca5dca8c5b19e63b517dab9b8317fb26e",
+    "race_setup.json": "ae7c7758fdc50ac3a2142b7e04cab99f0de8edc62fd4e77b5b78935cc22fd669"
+  },
+  "source_positions": "https://yb.tl/BIN/r2ak2024/AllPositions3",
+  "source_setup": "https://yb.tl/JSON/r2ak2024/RaceSetup",
+  "source_viewer": "https://yb.tl/r2ak2024",
+  "time_range_utc": {
+    "first": "2024-06-12T18:30:07Z",
+    "last": "2024-07-01T22:46:20Z"
+  }
+}
