@@ -1,0 +1,12 @@
+{
+  "race_key": "r2ak2022-proving-ground",
+  "source_url": "https://r2ak2022provingground.maprogress.com/",
+  "maprogress_fms": 1655121600,
+  "exported_at_utc": "2026-10-29T16:13:15.774288+00:00",
+  "counts": {
+    "teams": 46,
+    "positions": 4264,
+    "track_files": 46
+  },
+  "capture_manifest_sha256": "3ec0e4b69b4284fdcd9164ba5872e158e3b6a78cfebb315f236f9cc03dce8924"
+}

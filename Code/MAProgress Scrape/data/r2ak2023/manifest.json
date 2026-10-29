@@ -1,0 +1,12 @@
+{
+  "race_key": "r2ak2023",
+  "source_url": "https://r2ak2023.maprogress.com/",
+  "maprogress_fms": 1686250800,
+  "exported_at_utc": "2026-10-29T16:09:05.413337+00:00",
+  "counts": {
+    "teams": 31,
+    "positions": 45571,
+    "track_files": 31
+  },
+  "capture_manifest_sha256": "becb60581a9a3b42c2415932541bfaa34d8e7b834755eea03978181e2c05657a"
+}

@@ -1,0 +1,2 @@
+<!DOCTYPE html><html><body><script>var domain=".maprogress.com";</script><script src="https://map0.b-cdn.net/js/localStorage?v=Ut-9UC2C_-XOwT-xAJbSjfwTpx0HLAJuyz_iigcy-Mk1" crossorigin="anonymous"></script>
+</body></html>

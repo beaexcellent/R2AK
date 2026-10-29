@@ -1,0 +1,242 @@
+{
+  "source_url": "https://r2ak2022provingground.maprogress.com/",
+  "final_url": "https://r2ak2022provingground.maprogress.com/",
+  "title": "Race to Alaska 2022 Proving Ground - MAProgress",
+  "captured_at_utc": "2026-10-29T15:40:52.283484+00:00",
+  "responses": [
+    {
+      "file": "raw/0000_index.txt",
+      "url": "https://r2ak2022provingground.maprogress.com/",
+      "status": 200,
+      "resource_type": "document",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 3758,
+      "sha256": "77da80c4552180146bccce678f370c6fdb1fcb9a5a067887f45adab3137395e3"
+    },
+    {
+      "file": "raw/0001_jquery-2.2.4.min.js",
+      "url": "https://code.jquery.com/jquery-2.2.4.min.js",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 85578,
+      "sha256": "05b85d96f41fff14d8f608dad03ab71e2c1017c2da0914d7c59291bad7a54f8e"
+    },
+    {
+      "file": "raw/0002_maps.txt",
+      "url": "https://map0.b-cdn.net/js/maps?v=17.27.6",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "application/x-javascript; charset=utf-8",
+      "bytes": 355,
+      "sha256": "8b94b42624fdc7ebe24cd4f4f36a713f07652a8078df0d5a8517d5ee79236966"
+    },
+    {
+      "file": "raw/0003_d3.txt",
+      "url": "https://map0.b-cdn.net/scripts/d3?v=1I6n_zWXlwneq0PAVXiGDJDDrK3cm4LczHPomn3r4781",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 151476,
+      "sha256": "e6550cfddcfebc196907a0b5d074dc8b7a551d035d444941e70d765fd1776cb7"
+    },
+    {
+      "file": "raw/0004_processError.min.js",
+      "url": "https://map0.b-cdn.net/js/processError.min.js?v=2",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "application/x-javascript",
+      "bytes": 394,
+      "sha256": "88b2d8c55b9b69222fa343a9671c4d39cc28f297b3ed5b19e936a67bccd32bb2"
+    },
+    {
+      "file": "raw/0005_mapc.txt",
+      "url": "https://map0.b-cdn.net/js/mapc?v=tPRs-es-3hABQXcbpKVC-EvxBo0yEj59pf_6SCKqr-01",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 33859,
+      "sha256": "d59883a2625f59591a88fa1069b42d815ad24c408dfcca4482935cbf010e8e10"
+    },
+    {
+      "file": "raw/0006_dmap1.txt",
+      "url": "https://map0.b-cdn.net/js/dmap1?v=Tmx_wS3SFRZq4WwirH3vVmeGdLbIUfXls286_FrdVPE1",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 386748,
+      "sha256": "078ee1eb7f356c45433c14da1fb7fc076377e71bc0123b2cbfe005ea77299612"
+    },
+    {
+      "file": "raw/0007_loader.js",
+      "url": "https://www.gstatic.com/charts/loader.js",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript",
+      "bytes": 62428,
+      "sha256": "369ae154eab37b7ada7776b934833183bb053ebd1d0255f70ef8944f65cabb0c"
+    },
+    {
+      "file": "raw/0008_cmap1.txt",
+      "url": "https://map0.b-cdn.net/js/cmap1?v=rvrA51NB0wev3Q15nZcdj33I-cJ79xYjkkOAgCazC_g1",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 592955,
+      "sha256": "0523e0124f9c9354168b0b061a9f16f55d6f9e0d1bf3c2f71d7d8cd1eda9b4c4"
+    },
+    {
+      "file": "raw/0009_cmap2.txt",
+      "url": "https://map0.b-cdn.net/js/cmap2?v=Lw90JwxIL1yfWgtkOcRj-Wjp95E9ffPhnTr4D-QEMkw1",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 972559,
+      "sha256": "3204aa4cf19c63b6145075dba3a9d7cfc97e00d7c1188d7d93c6a723f9452847"
+    },
+    {
+      "file": "raw/0010_emap.txt",
+      "url": "https://map0.b-cdn.net/js/emap?v=rPQAxbztp91Oiw5QxzO-o7mztn8fVgY2nxWvrZtSItA1",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 794661,
+      "sha256": "69f81c0adade814c7ee5503fb513196b0ff5fb7676360c021eddb1706f402223"
+    },
+    {
+      "file": "raw/0011_js.txt",
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-PYS9GW3QCV",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 537412,
+      "sha256": "6173bb200ecf8e00e68ab4c08878935720b5743c84f01ca4479be82de973ee41"
+    },
+    {
+      "file": "raw/0012_mapl.txt",
+      "url": "https://app.maprogress.com/js/mapl?i=2702&f=4&a=1655337600&v=229&l=0&m=0&z=1",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "application/x-javascript; charset=utf-8",
+      "bytes": 14089,
+      "sha256": "1f8dec7c40bbe1cbc39c87fd2d747df65b7c4ad6d00cdf5d85836a90b78126b1"
+    },
+    {
+      "file": "raw/0013_mapm.txt",
+      "url": "https://map0.b-cdn.net/js/mapm?id=2702&v=162&mv=0",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "application/x-javascript; charset=utf-8",
+      "bytes": 57428,
+      "sha256": "de2f660b6d6da5b685fb42fa4e9d1a0e3ad45c965214a97cb0c577bc92893a58"
+    },
+    {
+      "file": "raw/0014_loader.js",
+      "url": "https://www.gstatic.com/charts/51/loader.js",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript",
+      "bytes": 49299,
+      "sha256": "15f9c7dcb6d3f3fd50ac55a55f8a4168652122756d7763c13c333c9d4b8a36f0"
+    },
+    {
+      "file": "raw/0015_getcurrentmilliseconds.json",
+      "url": "https://app.maprogress.com/events/getcurrentmilliseconds?_=1793288430130",
+      "status": 200,
+      "resource_type": "xhr",
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 13,
+      "sha256": "4aaea61b73fb09eea2f41b87b56f55293f2e24d41c259853742fda3efa34d835"
+    },
+    {
+      "file": "raw/0016_localStorage.txt",
+      "url": "https://map0.b-cdn.net/js/localStorage?v=Ut-9UC2C_-XOwT-xAJbSjfwTpx0HLAJuyz_iigcy-Mk1",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript; charset=utf-8",
+      "bytes": 763,
+      "sha256": "c0fb4ae9ed56b7fa020e6e618bad2dd83bfc642cf07c14c85fea66cd625bc7bc"
+    },
+    {
+      "file": "raw/0017_localStorage.txt",
+      "url": "https://app.maprogress.com/home/localStorage",
+      "status": 200,
+      "resource_type": "document",
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 222,
+      "sha256": "3cadeeeb15b3f0800303e207a1830d430be89d64046823a5a47696e6190126d6"
+    },
+    {
+      "file": "raw/0018_jsapi_compiled_graphics_module.js",
+      "url": "https://www.gstatic.com/charts/51/js/jsapi_compiled_graphics_module.js",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript",
+      "bytes": 24811,
+      "sha256": "9ad0d8bf9e4659eb773ec937a69b25c1e8869b17c43acd258f01e268f0194088"
+    },
+    {
+      "file": "raw/0019_jsapi_compiled_gauge_module.js",
+      "url": "https://www.gstatic.com/charts/51/js/jsapi_compiled_gauge_module.js",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript",
+      "bytes": 8424,
+      "sha256": "bf6f47ed8780b687c5a130fb2a771626719f31ddf91027f4f713a335c7c3205f"
+    },
+    {
+      "file": "raw/0020_jsapi_compiled_corechart_module.js",
+      "url": "https://www.gstatic.com/charts/51/js/jsapi_compiled_corechart_module.js",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript",
+      "bytes": 8077,
+      "sha256": "30c48eef4e305a1f7e77d50dcac4b5f7baf250b0d55dfbab468db645bfb13c65"
+    },
+    {
+      "file": "raw/0021_jsapi_compiled_default_module.js",
+      "url": "https://www.gstatic.com/charts/51/js/jsapi_compiled_default_module.js",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript",
+      "bytes": 269363,
+      "sha256": "7e7e72eecf6a4fb2981627eb8d15b947d394398db4e67c7ca7705749cdb2f832"
+    },
+    {
+      "file": "raw/0022_jsapi_compiled_ui_module.js",
+      "url": "https://www.gstatic.com/charts/51/js/jsapi_compiled_ui_module.js",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "text/javascript",
+      "bytes": 519614,
+      "sha256": "0867ee1df230c80dc1601a8c56c499fabe444ab3ec173ce8b901444560c8816d"
+    },
+    {
+      "file": "raw/0023_maph.txt",
+      "url": "https://map0.b-cdn.net/js/maph?g=2702&f=4&a=1655337600&c=0&p=0&t=0&d=0&o=0&r=0&v=76",
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "application/x-javascript; charset=utf-8",
+      "bytes": 211654,
+      "sha256": "a00551f5edeb029e3a41371c5f5da51764a5a76984de0706a0e964ddf5d44577"
+    },
+    {
+      "file": "raw/0024_negotiate.json",
+      "url": "https://r2ak2022provingground.maprogress.com/signalr/negotiate?clientProtocol=2.1&connectionData=%5B%7B%22name%22%3A%22grouphub%22%7D%5D&_=1793288430131",
+      "status": 200,
+      "resource_type": "xhr",
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 375,
+      "sha256": "781da04b69ba02e8c1b24f51a703325d79adde4662ecb40904be09120c93f3e8"
+    },
+    {
+      "file": "raw/0025_start.json",
+      "url": "https://r2ak2022provingground.maprogress.com/signalr/start?transport=webSockets&clientProtocol=2.1&connectionToken=xhc5BtGOVLLXlj8O7s3nediRRJpKOjUceHa3DqK6k%2BoBRofRdkGSm5It%2F2kPLWyjZHEbUNmMrxQCbKyLmK3eiBP42lNxXVb7PJqra2fBi%2BrGQR5L&connectionData=%5B%7B%22name%22%3A%22grouphub%22%7D%5D&_=1793288430132",
+      "status": 200,
+      "resource_type": "xhr",
+      "content_type": "application/json; charset=utf-8",
+      "bytes": 25,
+      "sha256": "c50a0366bab0d95bd0dfbbf67ed889b5fd383ee7464a77660088c32e4ef91c20"
+    }
+  ]
+}
